@@ -33,3 +33,4 @@ THEN the saved events persist
 
 ## Screenshot 
 
+(https://github.com/sajees89/work-day-scheduler/blob/main/assets/05-third-party-apis-homework-demo.gif)
