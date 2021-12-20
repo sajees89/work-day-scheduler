@@ -1,4 +1,4 @@
-# Third-Party APIs Challenge: Workday Scheduler
+# Third-Party APIs: Workday Scheduler
 
 ## Description
 For this challenge, I was tasked with creating a simple calendar application that allows a user to save events for specific hours of the workday. The app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
